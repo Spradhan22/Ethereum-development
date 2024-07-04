@@ -1,0 +1,18 @@
+{
+  "_format": "hh-vy-cache-1",
+  "files": {
+    "D:\\edp\\Vyper-dapp\\contracts\\Cert.vy": {
+      "lastModificationDate": 1717721518991,
+      "contentHash": "21a4eb10ceb622a1f9d9a497200af7be",
+      "sourceName": "contracts/Cert.vy",
+      "vyperConfig": {
+        "version": "0.3.10",
+        "settings": {}
+      },
+      "versionPragma": "^0.3.10",
+      "artifacts": [
+        "Cert"
+      ]
+    }
+  }
+}
